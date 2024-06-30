@@ -42,6 +42,7 @@ For any inquiries or issues, please contact:
 •Hazem Emam: hemam8560@gmail.com
 
 •Mohamed Ayman: Mohamed.Azeim04@eng-st.cu.edu.eg
+
 Enjoy creating and playing with Paint for Kids!
 #
 This README provides an overview of the project, its features, installation instructions, and contact information. If you have any specific preferences or additional details you'd like included, feel free to let me know!
